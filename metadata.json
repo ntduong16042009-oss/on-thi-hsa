@@ -1,0 +1,6 @@
+{
+  "name": "HSA Master - Hệ Thống Luyện Thi & Đánh Giá Năng Lực Ngữ Văn",
+  "description": "Nền tảng luyện thi Đánh giá năng lực HSA chuyên sâu môn Ngữ văn và tư duy ngôn ngữ với phòng thi trực tuyến chuẩn quy chế, phân tích lỗi sai và ngân hàng đề phong phú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
